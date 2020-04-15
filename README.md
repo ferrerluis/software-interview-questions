@@ -1,4 +1,4 @@
-# Software Interview Questions _(for the interviewer)_
+# Software Interview Questions _(to ask the interviewer)_
 A set of questions that you can ask prospective employers to paint a clearer picture of what life at that company looks like
 
 ## Growth
