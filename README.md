@@ -43,6 +43,7 @@ A set of questions that you can ask prospective employers to paint a clearer pic
 1. What does the team do for fun?
     1. Are there any team initiatives to help relief stress?
     1. What kind of off-sites has the team liked the most (if any)?
+1. What would I have to go through if I wanted to have the company buy me a book that is very relevant to my job?
 
 ## Lifestyle
 
